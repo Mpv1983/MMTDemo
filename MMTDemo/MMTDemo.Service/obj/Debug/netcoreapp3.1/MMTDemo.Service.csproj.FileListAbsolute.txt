@@ -1,0 +1,12 @@
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\bin\Debug\netcoreapp3.1\MMTDemo.Service.deps.json
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\bin\Debug\netcoreapp3.1\MMTDemo.Service.dll
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\bin\Debug\netcoreapp3.1\MMTDemo.Service.pdb
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.AssemblyInfoInputs.cache
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.AssemblyInfo.cs
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.csproj.CoreCompileInputs.cache
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.dll
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.pdb
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\bin\Debug\netcoreapp3.1\MMTDemo.Models.dll
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\bin\Debug\netcoreapp3.1\MMTDemo.Models.pdb
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.csproj.AssemblyReference.cache
+C:\Git\MMTDemo\MMTDemo\MMTDemo.Service\obj\Debug\netcoreapp3.1\MMTDemo.Service.csproj.CopyComplete
